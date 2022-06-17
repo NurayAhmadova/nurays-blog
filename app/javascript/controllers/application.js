@@ -9,4 +9,6 @@ window.Stimulus   = application
 export { application }
 
 //= require jquery
-//= req uire jquery_ujs
+//= require jquery_ujs
+//= require_tree .
+//= require bootstrap
